@@ -2,7 +2,7 @@
 
 from pyVinted import Vinted
 import requests
-bot_token = "5712231465:AAFUrOfBV6WPyY5Tl0hDLBvlV8aFu6EQIq0"
+bot_token = "INSERT!!!"
 chat_id = "5063650572"
 send_message_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
 vinted = Vinted()
